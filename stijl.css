@@ -1,0 +1,114 @@
+
+      body {
+        background-color: pink;
+      }
+      #midden{
+        color: white;
+        background-color: red;
+        border-radius: 10px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        text-align: center;
+      }
+      #cont1, #cont3 {
+        background-color: blue;
+        align-items: center;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+      }
+      #cont1 {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+      }
+      #cont3 {
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+      }
+      #cont2 {
+        background-color: orange;
+        align-items: center;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+      }
+      img {
+        border-radius: 5px;
+      }
+      img:hover {
+        filter: blur(1px);
+      }
+      footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: red;
+        color: white;
+        text-align: center;
+      }
+      nav {
+        border-radius: 10px;
+        margin-bottom: 10px;
+        padding-left: 10px;
+      }
+      #col4-om {
+        background-color: blue;
+        border-radius: 10px;
+        color: white;
+      }
+      #col8-om {
+        background-color: orange;
+        border-radius: 10px;
+        color: white;
+      }
+      iframe {
+        width: 100%;
+        border-radius: 10px;
+      }
+      #contactform {
+        border-radius: 4px;
+        padding-top: 10px;
+        padding-left: 20px;
+        padding-bottom: 10px;
+      }
+      form {
+        vertical-align:middle;
+        text-align: center;
+      }
+      input [type="text"], input [type="email"], <input [type="telefoon"], select [name="vraag"] {
+        display: block
+        box-sizing: border-box;
+        width: 400px
+        border-radius: 10px
+      }
+      .form-1b {
+        border-radius: 6px;
+      }
+      textarea {
+        height: 150px;
+        width: 100%;
+        border-radius: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+      .csubmit {
+        background-color: orange;
+        color: blue;
+        border-radius: 10px;
+        font-size: 14px;
+        padding: 10px;
+      }
+      .csubmit:active {
+        background-color: blue;
+        color: orange
+      }
+      .p-ft {
+        font-size: 10px;
+      }
+      .card-text {
+        color: grey;
+      }
+      .btn-info {
+        background: orange;
+      }
