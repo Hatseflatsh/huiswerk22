@@ -50,21 +50,27 @@
       nav {
         border-radius: 10px;
         margin-bottom: 10px;
-        padding-left: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
       }
       #col4-om {
         background-color: blue;
         border-radius: 10px;
         color: white;
+        padding: 10px;
       }
-      #col8-om {
+      #col9-om {
         background-color: orange;
         border-radius: 10px;
         color: white;
+        padding: 10px;
+
       }
       iframe {
         width: 100%;
-        border-radius: 10px;
+        border: 0px;
+        border-width: 0px;
       }
       #contactform {
         border-radius: 4px;
@@ -111,4 +117,7 @@
       }
       .btn-info {
         background: orange;
+      }
+      .nav-link {
+        color:white;
       }
